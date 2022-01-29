@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgba(192, 235, 235, 0.541);
+}
+form{
+    text-align: center;
+}
+button{
+ background-color:rgb(202, 216, 213);
+}
+select{
+    margin-bottom: 0.5cm;
+}
+html{
+    scroll-behavior: smooth;
+}
